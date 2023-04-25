@@ -1,2 +1,2 @@
-# zprava
-encrypted message in brainfuck
+# encrypted web
+idk why i did it :D
